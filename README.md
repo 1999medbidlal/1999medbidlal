@@ -24,7 +24,6 @@
 ###
 
 <h3 align="left">- Languages: C, Bash  <br>- Tools: Git, GCC, Makefile, VS Code  <br>- OS: Linux (Debian-based)</h3><br>
- 
 <h3 align="left"> 🔧 Tech Stack (C-style)</h3><br>
 const char *languages[]  = {"C", "Python", "Java", "PHP"};<br>
 const char *web[]        = {"HTML", "CSS"};<br>
@@ -32,13 +31,11 @@ const char *framework[]  = {"Laravel"};<br>
 const char *database[]   = {"MySQL", "SQLite"};<br>
 const char *tools[]      = {"Git", "VSCode", "Neovim"};<br>
 const char *platforms[]  = {"Linux", "Windows"};<br>
-
 int main(void)<br>
 {<br>
     return 42; // keep learning<br>
 }
 </p><br>
-
 ###
 
 
