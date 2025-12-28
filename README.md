@@ -25,19 +25,18 @@
 
 <h3 align="left">- Languages: C, Bash  <br>- Tools: Git, GCC, Makefile, VS Code  <br>- OS: Linux (Debian-based)</h3><br>
 <h3 align="left"> 🔧 Tech Stack (C-style)</h3><br>
-// My Tools Setup 🔧
-class About extends Me {
-  const myTools = {
-    "ProgrammingLanguages": { "C", "Python", "Java", "PHP" },
-    "Frameworks": { "Laravel" },
-    "Web": { "HTML", "CSS" },
-    "Schools": { "42 Network", "1337" },
-    "Database": { "MySQL", "SQLite" },
-    "Editors": { "VSCode", "Neovim" },
-    "Platforms": { "GNU/Linux", "Windows" },
-    "Other": { "Git", "Figma" }
-  };
-}
+class About extends Me {<br>
+  const myTools = {<br>
+    "ProgrammingLanguages": { "C", "Python", "Java", "PHP" },<br>
+    "Frameworks": { "Laravel" },<br>
+    "Web": { "HTML", "CSS" },<br>
+    "Schools": { "42 Network", "1337" },<br>
+    "Database": { "MySQL", "SQLite" },<br>
+    "Editors": { "VSCode", "Neovim" },<br>
+    "Platforms": { "GNU/Linux", "Windows" },<br>
+    "Other": { "Git", "Figma" }<br>
+  };<br>
+}<br>
 ###
 
 
