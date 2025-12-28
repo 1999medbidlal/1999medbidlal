@@ -15,7 +15,7 @@
 
 ###
 
-<h3 align="left">- Passionate about low-level programming and algorithms.<br>- Strong interest in C data structures, and system programming. <br>- Currently working on push_swap and algorithm optimization  <br>- Learning Linux internals and software architecture.</h3>
+<h3 align="left"> * Passionate about low-level programming and algorithms.<br>* Strong interest in C data structures, and system programming. <br>* Currently working on push_swap and algorithm optimization  <br>* Learning Linux internals and software architecture.</h3>
 
 ###
 
@@ -23,65 +23,22 @@
 
 ###
 
-<h3 align="left">- Languages: C, Bash  <br>- Tools: Git, GCC, Makefile, VS Code  <br>- OS: Linux (Debian-based)</h3>
-/* Med Bidlal — GitHub Profile */
+<h3 align="left">- Languages: C, Bash  <br>- Tools: Git, GCC, Makefile, VS Code  <br>- OS: Linux (Debian-based)</h3><br>
+ 
 
-const char *languages[]  = {"C", "Python", "Java", "PHP"};
-const char *web[]        = {"HTML", "CSS"};
-const char *framework[]  = {"Laravel"};
-const char *database[]   = {"MySQL", "SQLite"};
-const char *tools[]      = {"Git", "VSCode", "Neovim"};
-const char *platforms[]  = {"Linux", "Windows"};
+const char *languages[]  = {"C", "Python", "Java", "PHP"};<br>
+const char *web[]        = {"HTML", "CSS"};<br>
+const char *framework[]  = {"Laravel"};<br>
+const char *database[]   = {"MySQL", "SQLite"};<br>
+const char *tools[]      = {"Git", "VSCode", "Neovim"};<br>
+const char *platforms[]  = {"Linux", "Windows"};<br>
 
-int main(void)
-{
-    return 42; // keep learning
-}
-
-###
-
-<br clear="both">
-
-<div align="right">
-  <img height="200" src="https://www.flaticon.com/free-sticker/programming_8662557"  />
-</div>
+int main(void)<br>
+{<br>
+    return 42; // keep learning<br>
+}<br>
 
 ###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-</div>
-
-###
-
 
 
 ###
