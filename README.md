@@ -66,14 +66,16 @@
 
 ## 🟡 Pac-Man Contribution Graph
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/1999medbidlal/1999medbidlal/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/1999medbidlal/1999medbidlal/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph"
-    src="https://raw.githubusercontent.com/1999medbidlal/1999medbidlal/output/pacman-contribution-graph.svg">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/1999medbidlal/1999medbidlal/output/pacman-contribution-graph-dark.svg?style=pacman">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/1999medbidlal/1999medbidlal/output/pacman-contribution-graph.svg?style=pacman">
+    <img alt="pacman contribution graph"
+      src="https://raw.githubusercontent.com/1999medbidlal/1999medbidlal/output/pacman-contribution-graph.svg?style=pacman">
+  </picture>
+</p>
 
 ---
 
