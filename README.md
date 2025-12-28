@@ -5,7 +5,7 @@
 
 <br clear="both">
 
-<h2 align="left">💻 Software Developer | C Programming | Linux | Architecte en Technologies du Numérique</h2>
+<h3 align="left">💻 Software Developer | C Programming | Linux | Architecte en Technologies du Numérique</h3>
 
 ###
 
@@ -24,6 +24,19 @@
 ###
 
 <h3 align="left">- Languages: C, Bash  <br>- Tools: Git, GCC, Makefile, VS Code  <br>- OS: Linux (Debian-based)</h3>
+/* Med Bidlal — GitHub Profile */
+
+const char *languages[]  = {"C", "Python", "Java", "PHP"};
+const char *web[]        = {"HTML", "CSS"};
+const char *framework[]  = {"Laravel"};
+const char *database[]   = {"MySQL", "SQLite"};
+const char *tools[]      = {"Git", "VSCode", "Neovim"};
+const char *platforms[]  = {"Linux", "Windows"};
+
+int main(void)
+{
+    return 42; // keep learning
+}
 
 ###
 
@@ -69,35 +82,32 @@
 
 ###
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
+
 
 ###
 ## 🧠 Tech Stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="55" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="55" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="55" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="55" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="55" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=go" height="55" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=rust" height="55" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="55" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=py" height="55" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=aws" height="55" />
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
+###
 ---
 
 ## 🌐 Connect with Me
@@ -149,3 +159,6 @@
 <p align="center">
   🚀 Always learning • Always building • Always improving
 </p>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
