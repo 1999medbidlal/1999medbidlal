@@ -25,22 +25,16 @@
 
 <h3 align="left">- Languages: C, Bash  <br>- Tools: Git, GCC, Makefile, VS Code  <br>- OS: Linux (Debian-based)</h3><br>
 <h3 align="left"> 🔧 Tech Stack (C-style)</h3><br>
-class About extends Me {<br>
-  const myTools = {<br>
-    "ProgrammingLanguages": { "C", "Python", "Java", "PHP" },<br>
-    "Frameworks": { "Laravel" },<br>
-    "Web": { "HTML", "CSS" },<br>
-    "Schools": { "42 Network", "1337" },<br>
-    "Database": { "MySQL", "SQLite" },<br>
-    "Editors": { "VSCode", "Neovim" },<br>
-    "Platforms": { "GNU/Linux", "Windows" },<br>
-    "Other": { "Git", "Figma" }<br>
-  };<br>
-}<br>
-###
-
-
-###
+const char *languages[]  = {"C", "Python", "Java", "PHP"};<br>
+const char *web[]        = {"HTML", "CSS"};<br>
+const char *framework[]  = {"Laravel"};<br>
+const char *database[]   = {"MySQL", "SQLite"};<br>
+const char *tools[]      = {"Git", "VSCode", "Neovim"};<br>
+const char *platforms[]  = {"Linux", "Windows"};<br>
+int main(void)<br>
+{<br>
+    return 42; // keep learning<br>
+}
 ## 🧠 Tech Stack
 
 <div align="center">
@@ -53,14 +47,6 @@ class About extends Me {<br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
 ###
@@ -115,8 +101,3 @@ class About extends Me {<br>
 <p align="center">
   🚀 Always learning • Always building • Always improving
 </p>
----
-<div>
-<img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-  </div>
-  
