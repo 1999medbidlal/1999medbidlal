@@ -13,8 +13,8 @@ jobs:
         with:
           github_user_name: 1999medbidlal
           outputs: |
-            dist/pacman-contribution-graph.svg
-            dist/pacman-contribution-graph-dark.svg?palette=github-dark
+            dist/pacman-contribution-graph.svg?style=pacman
+            dist/pacman-contribution-graph-dark.svg?style=pacman&palette=github-dark
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
