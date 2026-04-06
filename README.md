@@ -17,24 +17,6 @@
 
 <h3 align="left"> * Passionate about low-level programming and algorithms.<br>* Strong interest in C data structures, and system programming. <br>* Currently working on push_swap and algorithm optimization  <br>* Learning Linux internals and software architecture.</h3>
 
-###
-
-<h2 align="left">🛠️ Skills</h2>
-
-###
-
-<h3 align="left">- Languages: C, Bash  <br>- Tools: Git, GCC, Makefile, VS Code  <br>- OS: Linux (Debian-based)</h3><br>
-<h3 align="left"> 🔧 Tech Stack (C-style)</h3><br>
-const char *languages[]  = {"C", "Python", "Java", "PHP"};<br>
-const char *web[]        = {"HTML", "CSS"};<br>
-const char *framework[]  = {"Laravel"};<br>
-const char *database[]   = {"MySQL", "SQLite"};<br>
-const char *tools[]      = {"Git", "VSCode", "Neovim"};<br>
-const char *platforms[]  = {"Linux", "Windows"};<br>
-int main(void)<br>
-{<br>
-    return 42; // keep learning<br>
-}
 ## 🧠 Tech Stack
 
 <div align="center">
